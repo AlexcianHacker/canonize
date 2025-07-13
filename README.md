@@ -1,6 +1,6 @@
-# canonize
-A Simple CLI Linux/Unix Utility, Written In C++ 
-Originally Compiled With G++ (GNU/GCC) 
+# <p align="center"> canonize
+<p align="center"> A Simple CLI Linux/Unix Utility, Written In C++ 
+<p align="center"> Originally Compiled With G++ (GNU/GCC) 
 
 ### Setup  
 Run `g++ -o canonize canonize.cpp`
