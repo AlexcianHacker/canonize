@@ -12,3 +12,6 @@ Run `g++ -o canonize canonize.cpp`
 
 `./canonize canonize ./canonize`
 
+
+**Use Sudo When Necessary 
+
